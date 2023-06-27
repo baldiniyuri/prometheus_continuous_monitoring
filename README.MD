@@ -1,6 +1,9 @@
 ### Prometheus Basic Configuration
 
-
+## Root folder
+```
+/etc/prometheus/
+```
 ### installation 
 
 ```
