@@ -13,10 +13,10 @@ alerting:
 
 # Load rules once and periodically evaluate them according to the global 'evaluation_interval'.
 rule_files:
-  - "cpu.yml"
-  - "memory.yml"
-  - "dict.yml"
-  - "port.yml"
+  - "cpu.yaml"
+  - "memory.yaml"
+  - "disc.yaml"
+  - "port.yaml"
 
 
 # A scrape configuration containing exactly one endpoint to scrape:
